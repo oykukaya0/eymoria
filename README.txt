@@ -1,0 +1,1 @@
+Eymoria Garden demo sitesi. index.html dosyasını açın veya klasörün içeriğini Vercel/Netlify üzerine yükleyin. Görseller kullanıcı tarafından sağlanan Instagram ekran görüntülerinden demo amaçlı kırpılmıştır. Kamusal yayından önce görsel kullanım izni ve metin doğrulaması alınmalıdır.
